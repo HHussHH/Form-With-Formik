@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3.Cout Filed.\
 4.Currency Filed.\
 5.Message Filed.\
-6.Checkbox Filed.\
+6.Checkbox Filed
 
 ### `npm start`
 
