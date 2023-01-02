@@ -4,12 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Simple Form with Formik
 
-1.Name Filed
-2.Email Filed
-3.Cout Filed
-4.Currency Filed
-5.Message Filed
-6.Checkbox Filed
+1.Name Filed.\
+2.Email Filed.\
+3.Cout Filed.\
+4.Currency Filed.\
+5.Message Filed.\
+6.Checkbox Filed.\
 
 ### `npm start`
 
